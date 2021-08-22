@@ -45,7 +45,7 @@ Opcode 11
 
 아래 사진은 여러 플레이어들의 게임접속 화면입니다.
 
-<img width="80%" alt="img" src ="hhttps://user-images.githubusercontent.com/33706043/130346490-72007f6e-ce1d-4f4c-a06e-60ee536401e3.jpeg"/>
+<img width="80%" alt="img" src ="https://user-images.githubusercontent.com/33706043/130346490-72007f6e-ce1d-4f4c-a06e-60ee536401e3.jpeg"/>
 
 ## 회고
 
